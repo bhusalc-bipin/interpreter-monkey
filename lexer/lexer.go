@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"interpreter-monkey/token"
+	"monkey-interpreter/token"
 )
 
 type Lexer struct { // only supports ASCII characters
